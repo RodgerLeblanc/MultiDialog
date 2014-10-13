@@ -79,6 +79,16 @@ config_pri_assets {
         $$quote($$BASEDIR/assets/SystemDialog.qml) \
         $$quote($$BASEDIR/assets/YourBaseballField.qml) \
         $$quote($$BASEDIR/assets/images/baseball_field.gif) \
+        $$quote($$BASEDIR/assets/images/double.png) \
+        $$quote($$BASEDIR/assets/images/doublepressed.png) \
+        $$quote($$BASEDIR/assets/images/homerun.png) \
+        $$quote($$BASEDIR/assets/images/homerunpressed.png) \
+        $$quote($$BASEDIR/assets/images/simple.png) \
+        $$quote($$BASEDIR/assets/images/simplepressed.png) \
+        $$quote($$BASEDIR/assets/images/triple.png) \
+        $$quote($$BASEDIR/assets/images/triplepressed.png) \
+        $$quote($$BASEDIR/assets/images/vide.gif) \
+        $$quote($$BASEDIR/assets/images/videpressed.gif) \
         $$quote($$BASEDIR/assets/main.qml)
 }
 
